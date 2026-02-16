@@ -1,0 +1,17 @@
+{
+  "name": "colombian-price-tracker",
+  "version": "2.0.0",
+  "description": "Full-stack price tracking system for Colombian supermarkets (Éxito, Carulla, Euro)",
+  "private": true,
+  "keywords": [
+    "price-tracking",
+    "colombia",
+    "supermarkets",
+    "exito",
+    "carulla",
+    "grocery",
+    "web-scraping"
+  ],
+  "author": "Felipe",
+  "license": "MIT"
+}
