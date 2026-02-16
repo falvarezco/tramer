@@ -1,4 +1,4 @@
-# 🛒 Colombian Supermarket Price Tracker MVP
+# 🛒 Tramer: Colombian Supermarket Price Tracker MVP
 
 A price tracking system for Colombian supermarkets (Éxito, Carulla, Euro) that helps you find the best deals and track price history.
 
